@@ -9,7 +9,7 @@ import scanpy as sc
 
 # --- Configuration ---
 # IMPORTANT: Replace with the actual path to your downloaded .h5ad file
-H5AD_FILE_PATH = "/Users/venkatachalamsubramanianperiyasubbu/Downloads/8797c27c-6937-429e-818a-6f2bce18521a.h5ad" # <<<--- CHANGE THIS PATH!
+H5AD_FILE_PATH = "/path/to/your/file.h5ad" # <<<--- CHANGE THIS PATH!
 
 # Name of the directory to store the output Parquet files
 OUTPUT_DIR_NAME = "murine_glioblastoma_processed"
